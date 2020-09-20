@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<script>alert('hey')</script>
 <i>test</i>
 <!--
 **Storm7953/Storm7953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
